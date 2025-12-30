@@ -1,0 +1,4 @@
+# Evolution of Todo - Phase I
+# Python Console Application
+# No external dependencies required
+# Runs with Python 3.10+ standard library only
